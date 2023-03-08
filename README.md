@@ -1,12 +1,6 @@
 ### 用户信息？ 😅
 用户具体信息
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fossil10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳

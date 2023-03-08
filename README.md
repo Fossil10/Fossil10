@@ -3,17 +3,17 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+个人简介
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 用户工作(http://razorpay.com/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 工作成就
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ 个人信息
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 邮箱 [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

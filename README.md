@@ -13,6 +13,7 @@
 
 ### 主页[here](https://see.tongji.edu.cn/info/1379/11201.htm)
 ### 邮箱 
+### 作者知网节[here](https://kns.cnki.net/kcms2/author/detail?v=HbIh-_fAmwSS6cxeIkT6kVE343vMJ4AQLpQ85De9xRgq6-lqhurZown-0qBZzF3L3YDeltOpp0uBlh7EVZakZ-avJ_UyZKrHLUyenkLFoVw=&uniplatform=NZKPT)
 <br />
 
 

@@ -1,19 +1,21 @@
-### 用户信息？ 😅
-用户具体信息
+### 教育经历：
 
+1998年9月-2007年12月 浙江大学 计算机学院 本硕博
+
+### 科研经历：
+
+中国人工智能学会机器学习专委会委员，中国计算机学会青年工作委员会委员，中国计算机学会专业会员。长期从事视觉感知与机器人学习、图像及三维的内容生成、基于小样本的目标检测与识别等研究。主持国家自然科学基金、上海市自然科学基金、上海市科技创新行动计划及企业科技合作等多项课题。在CVPR、AAAI、ICCV、ICRA、IROS、TIP、PR、RAL、TITS、TIM等国内外知名会议、期刊上发表论文50余篇，授权国家发明专利10余项，参与撰写专著2部。
+
+
+### 招生信息：
+
+招收相关方向硕士、博士、博士后
+
+### 主页[here](https://see.tongji.edu.cn/info/1365/10839.htm)
+### 邮箱 
 <br />
 
-个人简介
 
-**About me**
-
-- 💼 用户工作(http://razorpay.com/)
-
-- 📈 工作成就
-
-- ❤️ 个人信息
-
-- 💬 邮箱 [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
